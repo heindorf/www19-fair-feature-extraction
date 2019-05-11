@@ -1,0 +1,15 @@
+# Byte-compiled 
+target/
+
+# Log Files
+log
+errorlog
+
+# Project settings
+*.iml
+.idea
+.project
+.pydevproject
+.ropeproject
+.spyderproject
+.spyproject
