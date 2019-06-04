@@ -3,7 +3,7 @@ Debiasing Vandalism Detection Models at Wikidata: Feature Extraction
 
 The Wikidata Vandalism Detectors FAIR-E and FAIR-S are machine learning models for automatic vandalism detection in Wikidata without discriminating against anonymous editors. They were developed as a joint project between Paderborn University and Leipzig University.
 
-This is the feature extraction component that extracts features for FAIR-E and FAIR-S. Classification and evaluation for FAIR-E, FAIR-S and the baselines WDVD, ORES, and FILTER can be done with the corresponding [classification and evaluation component](https://github.com/heindorf/www19-fair-feature-classification).
+This is the feature extraction component that extracts features for FAIR-E and FAIR-S. Classification and evaluation for FAIR-E, FAIR-S and the baselines WDVD, ORES, and FILTER can be done with the corresponding [classification and evaluation component](https://github.com/heindorf/www19-fair-classification).
 
 Paper
 -----
